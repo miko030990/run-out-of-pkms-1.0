@@ -1,0 +1,15 @@
+[
+null,
+{"id":1,"expanded":true,"name":"开场白","order":1,"parentId":0,"scrollX":542,"scrollY":375.6666666666667},
+{"id":2,"expanded":true,"name":"学校走廊","order":2,"parentId":0,"scrollX":752.4,"scrollY":413.4},
+{"id":3,"expanded":true,"name":"开场白","order":3,"parentId":0,"scrollX":542,"scrollY":375.6666666666667},
+{"id":4,"expanded":true,"name":"8f","order":4,"parentId":0,"scrollX":1236,"scrollY":459.3333333333333,"quick":false},
+{"id":5,"expanded":true,"name":"7f走廊右侧","order":5,"parentId":0,"scrollX":836,"scrollY":459.3333333333333,"quick":false},
+{"id":6,"expanded":true,"name":"7f导览室","order":6,"parentId":5,"scrollX":836,"scrollY":459.3333333333333,"quick":false},
+{"id":7,"expanded":true,"name":"7f教师室","order":8,"parentId":5,"scrollX":844,"scrollY":470,"quick":false},
+{"id":8,"expanded":false,"name":"电脑1界面","order":9,"parentId":5,"scrollX":836,"scrollY":459.3333333333333,"quick":false},
+{"id":9,"expanded":true,"name":"MAP009","order":10,"parentId":8,"scrollX":0,"scrollY":0,"quick":false},
+{"id":10,"expanded":true,"name":"MAP010","order":11,"parentId":8,"scrollX":0,"scrollY":0,"quick":false},
+{"id":11,"expanded":false,"name":"MAP011","order":12,"parentId":8,"scrollX":0,"scrollY":0,"quick":false},
+{"id":12,"expanded":false,"name":"7f打印室","order":7,"parentId":5,"scrollX":836,"scrollY":459.3333333333333,"quick":false}
+]
